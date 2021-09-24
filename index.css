@@ -1,37 +1,38 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Bonheur+Royale&display=swap');
-
-* {
-    font-family: 'Bonheur Royale', cursive;
+/* External css */
+body {
+    background-color: blue;
 }
 
-.name {
-    background-color: aqua;
-    /* max-width: 50%;
-    width: 75%;
-    max-height: 200px;
-    height: 300px; */
-    /* min-width: 75%;
-    width: 50%;
-    min-height: 300px;
-    height: 200px; */
-    /* Typography */
-    font-size: 100px;
-    font-weight: 700;
-    line-height: 70px;
+.nama {
+    background-color: blue;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+    padding: 50px 40px 30px 20px;
+
+    margin-top: 50px;
+    margin-right: 40px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin: 50px 40px 30px 20px;
+    border: 4px solid red;
+
+    width: 200px;
+    height:200px;
+    font-size: 15px;
 }
-.name {
-    background-color: aqua;
-    /* max-width: 50%;
-    width: 75%;
-    max-height: 200px;
-    height: 300px; */
-    /* min-width: 75%;
-    width: 50%;
-    min-height: 300px;
-    height: 200px; */
-    /* Typography */
-    font-size: 100px;
-    font-weight: 700;
-    line-height: 90px;
+div {
+    background-color: red;
+}
+
+div .banyu {
+    background-color: seagreen;
+}
+
+div .banyu span {
+    background-color: springgreen;
+}
+
+div #nurmanjaya {
+    background-color: tomato;
 }
