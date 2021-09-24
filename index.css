@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bonheur+Royale&display=swap');
+
+* {
+    font-family: 'Bonheur Royale', cursive;
+}
+
+.name {
+    background-color: aqua;
+    /* max-width: 50%;
+    width: 75%;
+    max-height: 200px;
+    height: 300px; */
+    /* min-width: 75%;
+    width: 50%;
+    min-height: 300px;
+    height: 200px; */
+    /* Typography */
+    font-size: 100px;
+    font-weight: 700;
+    line-height: 70px;
+}
+.name {
+    background-color: aqua;
+    /* max-width: 50%;
+    width: 75%;
+    max-height: 200px;
+    height: 300px; */
+    /* min-width: 75%;
+    width: 50%;
+    min-height: 300px;
+    height: 200px; */
+    /* Typography */
+    font-size: 100px;
+    font-weight: 700;
+    line-height: 90px;
+}
